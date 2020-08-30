@@ -1,0 +1,10 @@
+arch: efficientnet-b0
+balanceSample: true
+batch_size: 42
+classes: 264
+epochs: 100
+fold: 1
+lr: 0.001
+seed: 42
+specaug: false
+topK: 0.8
