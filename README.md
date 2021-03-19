@@ -1,6 +1,6 @@
 # Cornell-Birdcall-Identification
 https://www.kaggle.com/c/birdsong-recognition  
-Complete training pipeline using CNNs with melspectrograms as inputs. Make sure you are running on pytorch 1.6 with automatic mixed precision training supported.
+Complete training pipeline using CNNs with melspectrograms as inputs. Make sure you are running on pytorch 1.6 with automatic mixed precision training supported and pytorch lightning < 1.0.0. Credit to my teammate hktxt.
  
 ## How to run
 1. ```pip install -r requirements.txt```  
